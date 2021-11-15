@@ -1,0 +1,140 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom CSS loader by WP Speed Doctor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-15 10:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wpsdcss"
+
+#. Description of the plugin
+msgid ""
+"Add your custom CSS only on website where you need it. Supports Page, Post, "
+"Archive, Tag, CPT, WooCommere"
+msgstr ""
+
+#: admin-menu.php:104
+msgid ""
+"After you you move plugin to the child theme, path for custom CSS will be in "
+"the child theme /assets/css/."
+msgstr ""
+
+#: admin-top-bar.php:144
+msgid "All WooCommerce pages"
+msgstr ""
+
+#: front-end.php:284
+msgid "Already exists -> "
+msgstr ""
+
+#: admin-menu.php:108
+msgid ""
+"Before you move plugin to the child theme, deactivate the plugin. When "
+"plugin is updated, you need to move again the plugin to the child theme."
+msgstr ""
+
+#: admin-top-bar.php:122
+msgid "Create <strong>inlined</strong> CSS file for the current page"
+msgstr ""
+
+#: admin-top-bar.php:128
+msgid "Create CSS file for current template"
+msgstr ""
+
+#: admin-top-bar.php:116
+msgid "Create CSS file for the current page"
+msgstr ""
+
+#: admin-top-bar.php:111
+msgid "Create GLOBAL CSS file for all website"
+msgstr ""
+
+#: front-end.php:295
+msgid "Created"
+msgstr ""
+
+#: admin-top-bar.php:84
+msgid "CSS file is already present"
+msgstr ""
+
+#: admin-top-bar.php:22
+msgid "Custom CSS"
+msgstr ""
+
+#: admin-menu.php:45 admin-menu.php:46 admin-menu.php:68
+msgid "Custom CSS by WP Speed Doctor"
+msgstr ""
+
+#. Name of the plugin
+msgid "Custom CSS loader by WP Speed Doctor"
+msgstr ""
+
+#: custom-css-by-wpsd-child-theme.php:12
+msgid ""
+"Custom CSS loader is not active in the child theme until plugin is removed"
+msgstr ""
+
+#: admin-menu.php:77
+msgid "Disable menu on the admin bar"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpspeeddoctor.com/"
+msgstr ""
+
+#: admin-menu.php:106
+msgid ""
+"If you have already created with plugin custom CSS styles, move files from "
+"/uploads/custom-css-by-wpsd/ to child theme /assets/css/."
+msgstr ""
+
+#. Author of the plugin
+msgid "Jaro Kurimsky <pixtweaks@protonmail.com>"
+msgstr ""
+
+#: front-end.php:369
+msgid "Loaded"
+msgstr ""
+
+#: front-end.php:348
+msgid "Not present"
+msgstr ""
+
+#: admin-menu.php:81
+msgid "Save settings"
+msgstr ""
+
+#: admin-menu.php:11
+msgid "Settings"
+msgstr ""
+
+#: admin-top-bar.php:138
+msgid "template"
+msgstr ""
+
+#: admin-top-bar.php:138
+msgid "WooCommerce "
+msgstr ""
+
+#: custom-css-by-wpsd-child-theme.php:11
+msgid ""
+"You moved Custom CSS loader to the child theme, deactivate plugin Custom CSS "
+"loader"
+msgstr ""
+
+#: admin-menu.php:96
+msgid ""
+"You're running Custom CSS loader by WP Speed Doctor as a plugin. To avoid "
+"accidental deactivation, you can run Custom CSS loader by WP Speed Doctor "
+"code directly from the child theme. Just <b>move</b> plugin folder to the "
+"child theme folder and add to functions.php in the child theme:"
+msgstr ""
